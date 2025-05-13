@@ -1,4 +1,4 @@
-# Simson Game using Java GUI.
+# Simon Game using Java GUI.
 
 Run the jar file to play the game.  
 Else,
